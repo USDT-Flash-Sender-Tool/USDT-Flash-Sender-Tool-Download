@@ -1,0 +1,1 @@
+console.log("USDT Flash Sender Tool is active!");
